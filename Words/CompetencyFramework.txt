@@ -1,4 +1,7 @@
-﻿1. Hacker Mentality
+﻿Table of Contents for Competency Framework:
+
+
+1. Hacker Mentality
 2. Introduction to the Community
 3. Building your Lab
 4. Core Competencies
@@ -78,6 +81,8 @@
       * GitHub Student is an incredible offer that gives college students a starter pack of basically everything they could ever need to get started with any aspect of computing, from text editors to cloud hosting and more. If you have a .edu account, apply for this incredible gift pack.
       * - Get Github Student if You Can
          * https://education.github.com/pack
+
+
    * Building a Lab
       * Building your own “Lab” is important for a lot of reasons, but most importantly it is fun and teaches you a bunch of valuable information. In this section we will do some work securing our daily lives and install a virtual machine for us to work on. What you will be making is uniquely yours and will be something that you will work on and refine for the rest of your career. 
       * Safety
@@ -182,8 +187,6 @@
       * Internet
          * Levels of the internet
             * https://danielmiessler.com/study/internet-deep-dark-web
-
-
 
 
 * Critical Thinking
@@ -313,8 +316,6 @@
    * Web Applications
 
 
-
-
 * Communication and Collaboration
    * Technical Writing
       * Intro to business writing
@@ -334,12 +335,9 @@
       * Write a Cover Letter
       * Build a Resume
       * Build a Portfolio
-   * * Data Collection and Examination
+
+
+* Data Collection and Examination
    * Collection Management
    * Open Source Data
    * Defending Assessments
-
-
-
-
-* Scavenger Hunt
