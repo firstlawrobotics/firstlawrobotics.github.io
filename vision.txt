@@ -1,0 +1,84 @@
+
+
+A treaded vehicle about the size of a milk crate rolls down the middle of a two lane street with houses on each side. Twenty yards ahead a small quadcopter about the size of a baseball hovers at chest height, scanning the road and surrounding area for any threats or anomalies that might indicate the possibility of an ambush or the presence of an IED. Fifty yards behind the scout team rumbles another treaded “tank”, but only about the size of a compact car. It’s well armored and carries rockets and a heavy machine gun for supporting fire.The tank is flanked by three “infantrymen”, smaller robots capable of maneuvering over obstacles, climbing stairs, and even clearing buildings with their integrated weapon systems. Farther behind still is an armored personnel carrier carrying five “infantrymen” and an assortment of drones, ready to be employed if contact is made with the enemy. On top of the carrier is a communications array and a massive battery pack as well as a set of solar cells and a diesel generator to keep everything charged. 
+
+A hundred yards overhead a medium sized quadcopter fitted with a rifle and a smaller quadcopter equipped with a pistol circle, ready to respond at a moment's notice, while a third quadcopter hovers at five-hundred yards up, providing a comprehensive view of the battlespace.
+
+The team operates as a single unit, receiving their commands from a squad of operators sitting in a nearby base. While their responses to most scenarios are coded into their software, they receive real time commands from the comms array which are then disseminated through a local mesh network. The squad of operators allow the team to retain their autonomy for the vast majority of the time, only adjusting the team’s priorities and tactics when a human is able to provide the perspective needed to accomplish the mission.
+
+15:10 
+
+The scout drone identifies a mound of freshly dug earth, human operators fly in closer and confirm the threat. The caravan is rerouted around the potential IED and it’s location is marked on a map for removal by another team of robotic professionals. 
+
+15:15 
+
+The scout team takes a right down a side street and reconnoiters to the end of the block. After confirming the route is safe, the rest of the team follows. 
+
+15:17
+
+The team makes a left out of the side street to get back on track towards their objective. 
+
+15:18
+
+As the caravan rolls down the street, shots ring out from a second story window on the left side of the road. The scout vehicle turns towards the fire but is disabled when struck on its unarmored body. The scout drone turns in position and gets eyes on target while simultaneously reversing itself up and out of harm's way. 
+
+The infantrymen spread out around the tank which, guided by the feed from the scout drone, locks in on the window the shots were being fired from. The enemy combatant stands up to spray off another dozen rounds and is hit with multiple bursts of pinpoint accuracy fire by the vehicles with a line of sight to the window. A second enemy pops out of a ground floor doorway and fires an RPG directly into the middle of the convoy, and fire opens up from a few hundred meters down the road. One of the infantrymen has been destroyed in the explosion, while a second has had its treads disabled. It rotates in place in order to cover the doorway the rocket had just been fired from. The personnel carrier moves towards cover, drops it’s ramp and begins off-loading infantrymen, while a small recon drone takes off and flies towards the RPG’s origin. The tank begins engaging the enemy down the road, primarily using accurate machine gun fire, but also building targeting solutions for its rocket capabilities. 
+
+The rifle UAV begins taking shots at the rooftop threats. While the airborne platform is not the most stable, high quality gyroscopes and machine vision make long range precision possible.
+
+Even higher up, the surveillance drone builds a map of the battlespace, while the comms array sends back the aggregate data from each of the feeds to provide a comprehensive picture of what is going on for both their operators and the robots themselves. 
+
+15:19
+
+The small drone launched off of the APC is first into the building, and enters the first room without meeting any resistance. It is followed by two infantrymen who clear the room and begin heading upstairs. This trio is programmed to perform the optimal strategy for clearing a house with their current composition, and execute it flawlessly. 
+
+The tank and infantrymen on the road are able to provide an accurate volume of fire allowing them to close with and destroy the enemy who are farther down the road. As they advance, a smaller drone is able to reach the enemy positions and begins to fire on them from above, distracting the enemy who spray in the air in the hope of clipping the nimble machine.
+
+15:20 
+
+The enemy who fired the rocket is found upstairs along with a partner, who spray at the drone when it enters the room and knock it down. However, the infantrymen following close behind methodically clear the room and kill both enemy combatants. They then return to catch up with their caravan outside. 
+
+The tank and its support team continue to move forward and suppress the enemy with perfectly synchronized “talking guns”. A rocket from the tank takes out a second story machine gunner who had been firing from behind cover, and the rifle drone manages to put down an attacker who had moved to the roof in the hope of a better vantage point. The team buddy rushes down the street with algorithmic precision.
+
+15:21 
+
+The enemy fire subsides after the tank and infantrymen get to a range where their computer aimed targeting systems do not miss, and they retain support positions as the other infantrymen and drones advance to catch up to their position. Small scout drones fly forward to investigate the positions where the firing was coming. All have been eliminated but one, where two enemy combatants are crouching behind a wall underneath a tree, out of the view of the overwatch UAV. The drone hovers above them and then backs off for reinforcements. One combatant sees that their location is compromised and attempts to run for a nearby building, but he is cut down by concentrated fire from the caravan. 
+
+15:22 
+
+The infantrymen reach the row of buildings and clear them, finding no living enemy. They encounter one scared family huddled in the corner of a living room, but the advanced analytics onboard identified them as non-threatening and they were not engaged. 
+
+The second jihadist under the tree is ineffectually firing at the scout drone while an armed quadcopter flies towards his position and an infantrymen moves forward under suppressing fire from the tank. 
+
+15:23
+
+The armed quadcopter reaches the enemy and engages, eliminating the threat. 
+
+The surveillance drone and rifle drone retain their overwatch position as the caravan switches out “walkers” and “riders” in the personnel carrier and swaps out battery packs for the machines pulling consecutive shifts. The diesel engine kicks on to charge the cells. 
+
+A defensive perimeter is formed.
+
+15:30
+
+The surveillance drone sees two vehicles moving towards the stopped caravan a quarter mile away, one a shoddily armored van, the second a pickup carrying multiple hostiles. The rifle drone begins firing at the lead vehicle to little effect. Identifying the armored van as a likely VBIED, the human operators send a command for the threat be destroyed through the most efficient means available. A small octocopter carrying a two pound payload of C4 takes off from the APC and flies at over 30 MPH towards the rapidly approaching vehicles. 
+
+15:31
+
+Flying across streets, over buildings, and around corners, the drone intercepts the incoming vehicles when they are a few hundred yards away. Calculating the speed and angles of the vehicle, the drone dives directly underneath the armored van and detonates, vaporizing itself and the deadly VBIED. The truck of enemy combatants are rattled by the explosion, but are not slowed down. As they move closer, they begin firing sporadically at the machines on the nearside of the defensive perimeter, who then begin to direct concentrated fire on the driver side of the vehicle. 
+
+15:32 
+
+The tank, traversing to get a clear shot of the incoming vehicle, gets a targeting solution and fires a rocket. The front half of the vehicle erupts in flame as it comes to an immediate halt and attackers pour out of the bed to escape the smoke and fire. The infantrymen continue to lay down fire and eliminate all threats. 
+
+15:35 
+
+The caravan reorganizes and moves forward. The destroyed vehicles locations are marked on a map for a team to come by to scrap or repair them. Back at the base, the human operators relax and begin verifying the automatically generated after action reports, complete with video, while other members of their team scan the overwatch feed for enemy activity. 
+
+After Action Report
+Two light, unarmed reconnaissance drones destroyed
+One C4 Drone used
+One infantryman destroyed
+One infantryman disable
+
+
+At any time, hundreds of these caravans can be operating through a city, capable of taking autonomous action against any enemy threats, while perfectly following their programmed playbooks and the current ROE. Every threat detected is plotted on a map, every activity is logged, and every after action report is automatically compiled. 
